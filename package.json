@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/iamgromov/browser-vs-node/issues"
   },
-  "homepage": "https://github.com/iamgromov/browser-vs-node#readme"
+  "homepage": "https://github.com/iamgromov/browser-vs-node#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.88.0",
+    "webpack-cli": "^5.1.4"
+  }
 }
