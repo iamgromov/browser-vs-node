@@ -1,0 +1,19 @@
+{
+  "name": "@iamgromov/browser-vs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgromov/browser-vs-node.git"
+  },
+  "author": "thnd3r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgromov/browser-vs-node/issues"
+  },
+  "homepage": "https://github.com/iamgromov/browser-vs-node#readme"
+}
